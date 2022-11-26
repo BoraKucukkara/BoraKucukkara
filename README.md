@@ -15,7 +15,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-444?style=for-the-badge&logo=Adobe-Photoshop) 
 ![Figma](https://img.shields.io/badge/Figma-444?style=for-the-badge&logo=figma&logoColor=EA1DF2) 
 
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borakucukkara&theme=&layout=compact)
+# 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borakucukkara&theme=transparent&layout=compact&hide_border=true&card_width=800)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borakucukkara&count_private=true&theme=&show_icons=true)
+![Bora Kucukkara wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=borakucukkara&theme=transparent&hide_border=true)
