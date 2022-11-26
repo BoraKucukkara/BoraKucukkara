@@ -1,4 +1,4 @@
-![Bora Kucukkara Github](src/borakucukkara-github.png)
+![Bora Kucukkara Github](src/borakucukkara-github.svg)
 
 
 
