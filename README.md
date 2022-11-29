@@ -18,4 +18,4 @@
 # 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borakucukkara&theme=transparent&layout=compact&hide_border=true&card_width=600)
 
-![Bora Kucukkara wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=borakucukkara&theme=transparent&hide_border=true)
+![Bora Kucukkara wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=borakucukkara&theme=transparent&hide_border=true&layout=compact&custom_title=Coding%20activity%20in%20last%207%20days)
