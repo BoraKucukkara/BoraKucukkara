@@ -22,8 +22,8 @@
 
 ![Bora Kucukkara GitHub Streak](https://streak-stats.demolab.com?user=borakucukkara&hide_border=true&background=DD272700&currStreakNum=4FC08D&sideNums=8E8E8E&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D&stroke=6F6F6F6F&sideLabels=8E8E8E)
 
-#
 
-<a href="https://www.linkedin.com/in/borakucukkara/">
-<svg role="img" fill="#0A66C2" width="48" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
-
+[<img style="height:36px; margin:0 5px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/borakucukkara/)
+[<img style="height:36px; margin:0 5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"/>](https://www.hackerrank.com/borakucukkara)
+[<img style="height:36px; margin:0 5px;" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png"/>](https://cssbattle.dev/player/borakucukkara)
+[<img style="height:36px; margin:0 5px;" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Product_Hunt-512.png"/>](https://www.producthunt.com/@bora_k_)
