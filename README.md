@@ -22,7 +22,7 @@
 ![Bora Kucukkara GitHub Streak](https://streak-stats.demolab.com?user=borakucukkara&hide_border=true&background=DD272700&currStreakNum=4FC08D&sideNums=8E8E8E&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D&stroke=6F6F6F6F&sideLabels=8E8E8E)
 
 
-[<img style="height:36px; margin:0 5px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/borakucukkara/)
-[<img style="height:36px; margin:0 5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"/>](https://www.hackerrank.com/borakucukkara)
-[<img style="height:36px; margin:0 5px;" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png"/>](https://cssbattle.dev/player/borakucukkara)
-[<img style="height:36px; margin:0 5px;" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Product_Hunt-512.png"/>](https://www.producthunt.com/@bora_k_)
+[<img style="height:36px; margin:0 10px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/borakucukkara/)
+[<img style="height:36px; margin:0 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"/>](https://www.hackerrank.com/borakucukkara)
+[<img style="height:36px; margin:0 10px;" src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png"/>](https://cssbattle.dev/player/borakucukkara)
+[<img style="height:36px; margin:0 10px;" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Product_Hunt-512.png"/>](https://www.producthunt.com/@bora_k_)
