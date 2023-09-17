@@ -18,7 +18,6 @@
 # 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borakucukkara&theme=transparent&layout=compact&hide_border=true&card_width=600)
 
-![Bora Kucukkara wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=borakucukkara&theme=transparent&hide_border=true&layout=compact&custom_title=Coding%20activity%20in%20last%207%20days)
 
 ![Bora Kucukkara GitHub Streak](https://streak-stats.demolab.com?user=borakucukkara&hide_border=true&background=DD272700&currStreakNum=4FC08D&sideNums=8E8E8E&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D&stroke=6F6F6F6F&sideLabels=8E8E8E)
 
