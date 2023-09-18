@@ -55,7 +55,8 @@ UI UX Design tools
 ---
 
 >`vue-multi-image-uploader`
-: [<img width="600" src="https://github.com/BoraKucukkara/vue-multi-image-uploader/raw/%7Bmain%7D/src%2Fassets%2Fvue-multi-image-upload.png" />](https://github.com/BoraKucukkara/vue-multi-image-uploader)
+: 
+[<img width="600" src="https://github.com/BoraKucukkara/vue-multi-image-uploader/raw/%7Bmain%7D/src%2Fassets%2Fvue-multi-image-upload.png" />](https://github.com/BoraKucukkara/vue-multi-image-uploader)
 
 ---
 
