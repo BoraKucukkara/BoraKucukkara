@@ -42,39 +42,44 @@ UI UX Design tools
 
 ### `Latest updates from Bora`
 
-> `Animemo 0.1.0` 
-: https://animemo.netlify.app
-: [<img width="600" src="https://camo.githubusercontent.com/1268416d4fb59a30755e7d2b41683c591f1c1730d3a87c9809425d9f9291a29b/68747470733a2f2f616e696d656d6f2e6e65746c6966792e6170702f6173736574732f616e696d656d6f2d6170702d73637265656e73686f742e706e67" />](https://github.com/BoraKucukkara/Animemo)
+`Animemo 0.1.0` 
+ https://animemo.netlify.app
+
+[<img width="600" src="https://camo.githubusercontent.com/1268416d4fb59a30755e7d2b41683c591f1c1730d3a87c9809425d9f9291a29b/68747470733a2f2f616e696d656d6f2e6e65746c6966792e6170702f6173736574732f616e696d656d6f2d6170702d73637265656e73686f742e706e67" />](https://github.com/BoraKucukkara/Animemo)
 
 ---
 
-> `vue-check-out`
-: DEMO https://vue-check-out.netlify.app/
-: [<img width="600" src="https://github.com/BoraKucukkara/vue-check-out/raw/%7Bmain%7D/src%2Fassets%2Fvue-check-out.gif" />](https://github.com/BoraKucukkara/vue-check-out)
+`vue-check-out`
+ DEMO https://vue-check-out.netlify.app/
+
+[<img width="600" src="https://github.com/BoraKucukkara/vue-check-out/raw/%7Bmain%7D/src%2Fassets%2Fvue-check-out.gif" />](https://github.com/BoraKucukkara/vue-check-out)
 
 ---
 
->`vue-multi-image-uploader`
+`vue-multi-image-uploader`
 
 : [<img width="600" src="https://github.com/BoraKucukkara/vue-multi-image-uploader/raw/%7Bmain%7D/src%2Fassets%2Fvue-multi-image-upload.png" />](https://github.com/BoraKucukkara/vue-multi-image-uploader)
 
 ---
 
-> `vue-user-card`
- :  DEMO https://vue-user-card.netlify.app/ 
-: [<img width="600" src="https://github.com/BoraKucukkara/vue-user-card/raw/%7Bmain%7D/src%2Fassets%2Fvue-user-card.gif" />](https://github.com/BoraKucukkara/vue-user-card)
+`vue-user-card`
+ DEMO https://vue-user-card.netlify.app/ 
+
+[<img width="600" src="https://github.com/BoraKucukkara/vue-user-card/raw/%7Bmain%7D/src%2Fassets%2Fvue-user-card.gif" />](https://github.com/BoraKucukkara/vue-user-card)
 
 ---
 
-> `vue-simle-modal`
-:  DEMO https://vue-simple-modal.netlify.app/
-: [<img width="600" src="https://github.com/BoraKucukkara/vue-simple-modal/raw/%7Bmain%7D/src%2Fassets%2Fvue-simple-modal.png" />](https://github.com/BoraKucukkara/vue-simple-modal)
+`vue-simle-modal`
+ DEMO https://vue-simple-modal.netlify.app/
+
+[<img width="600" src="https://github.com/BoraKucukkara/vue-simple-modal/raw/%7Bmain%7D/src%2Fassets%2Fvue-simple-modal.png" />](https://github.com/BoraKucukkara/vue-simple-modal)
 
 ---
 
-> `todoli mobile todo app`
-:  DEMO https://apptodoli.netlify.app/
-: [<img width="600" src="https://repository-images.githubusercontent.com/520661697/b7acf6ea-330a-4a20-808c-b7dff59eb398" />](https://github.com/BoraKucukkara/todoli)
+`todoli mobile todo app`
+ DEMO https://apptodoli.netlify.app/
+
+[<img width="600" src="https://repository-images.githubusercontent.com/520661697/b7acf6ea-330a-4a20-808c-b7dff59eb398" />](https://github.com/BoraKucukkara/todoli)
 
 
 
