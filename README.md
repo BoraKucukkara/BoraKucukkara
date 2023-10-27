@@ -4,6 +4,7 @@ Social
 
 [<img src="https://img.shields.io/badge/Linkedin-111111?style=for-the-badge&logoColor=0077ff&logo=Linkedin"/>](https://www.linkedin.com/in/borakucukkara/)
 [<img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=Hackerrank"/>](https://www.hackerrank.com/borakucukkara)
+[<img src="https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=NPM"/>](https://www.npmjs.com/~borakucukkara)
 [<img src="https://img.shields.io/badge/ProductHunt-111111?style=for-the-badge&logo=Producthunt"/>](https://www.producthunt.com/@bora_k_)
 [<img src="https://img.shields.io/badge/CssBattle-111111?style=for-the-badge&logoColor=e3dc07&logo=css3"/>](https://cssbattle.dev/player/borakucukkara)
 [<img src="https://img.shields.io/badge/DEV.TO-111111?style=for-the-badge&logoColor=eaeaea&logo=dev.to"/>](https://dev.to/borakucukkara)
@@ -41,6 +42,14 @@ UI UX Design tools
 ![Bora Kucukkara GitHub Streak](https://streak-stats.demolab.com?user=borakucukkara&hide_border=true&background=DD272700&currStreakNum=4FC08D&sideNums=8E8E8E&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D&stroke=6F6F6F6F&sideLabels=8E8E8E)
 
 ### `Latest updates from Bora`
+
+`vue-reading-time`
+Just published a new npm package 
+ https://vue-reading-time.netlify.app/
+
+[<img width="600" src="https://vue-reading-time.netlify.app/ss.png" />](https://www.npmjs.com/package/vue-reading-time)
+
+---
 
 `Animemo 0.1.0` 
  https://animemo.netlify.app
