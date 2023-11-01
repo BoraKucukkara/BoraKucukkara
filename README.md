@@ -1,6 +1,6 @@
 ![Bora Kucukkara Github](src/borakucukkara-github.svg)
 
-Social 
+Also i am here;
 
 [<img src="https://img.shields.io/badge/Linkedin-111111?style=for-the-badge&logoColor=0077ff&logo=Linkedin"/>](https://www.linkedin.com/in/borakucukkara/)
 [<img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=Hackerrank"/>](https://www.hackerrank.com/borakucukkara)
@@ -43,6 +43,15 @@ UI UX Design tools
 
 ### `Latest updates from Bora`
 
+`vue-reading-mode`
+
+Just published a new ui component for VueJS 
+ https://vue-reading-mode.netlify.app/
+
+[<img width="600" src="https://vue-reading-mode.netlify.app/vue-reading-mode.jpg" />](https://github.com/BoraKucukkara/vue-reading-mode)
+
+---
+
 `vue-reading-time`
 Just published a new npm package 
  https://vue-reading-time.netlify.app/
@@ -67,7 +76,7 @@ Just published a new npm package
 
 `vue-multi-image-uploader`
 
-: [<img width="600" src="https://github.com/BoraKucukkara/vue-multi-image-uploader/raw/%7Bmain%7D/src%2Fassets%2Fvue-multi-image-upload.png" />](https://github.com/BoraKucukkara/vue-multi-image-uploader)
+[<img width="600" src="https://github.com/BoraKucukkara/vue-multi-image-uploader/raw/%7Bmain%7D/src%2Fassets%2Fvue-multi-image-upload.png" />](https://github.com/BoraKucukkara/vue-multi-image-uploader)
 
 ---
 
