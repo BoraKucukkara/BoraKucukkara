@@ -2,6 +2,7 @@
 
 Also i am here;
 
+[<img src="https://img.shields.io/badge/TWITTER-111111?style=for-the-badge&logoColor=eaeaea&logo=x"/>](https://twitter.com/BoraKucukkara)
 [<img src="https://img.shields.io/badge/Linkedin-111111?style=for-the-badge&logoColor=0077ff&logo=Linkedin"/>](https://www.linkedin.com/in/borakucukkara/)
 [<img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=Hackerrank"/>](https://www.hackerrank.com/borakucukkara)
 [<img src="https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=NPM"/>](https://www.npmjs.com/~borakucukkara)
@@ -9,12 +10,13 @@ Also i am here;
 [<img src="https://img.shields.io/badge/CssBattle-111111?style=for-the-badge&logoColor=e3dc07&logo=css3"/>](https://cssbattle.dev/player/borakucukkara)
 [<img src="https://img.shields.io/badge/DEV.TO-111111?style=for-the-badge&logoColor=eaeaea&logo=dev.to"/>](https://dev.to/borakucukkara)
 [<img src="https://img.shields.io/badge/medium-111111?style=for-the-badge&logoColor=eaeaea&logo=medium"/>](https://medium.com/@borakucukkara)
-[<img src="https://img.shields.io/badge/TWITTER-111111?style=for-the-badge&logoColor=eaeaea&logo=x"/>](https://twitter.com/BoraKucukkara)
+
 ---
 Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/Vue.JS-108450?style=for-the-badge&logo=vue.js)
 ![Javascript](https://img.shields.io/badge/Javascript-AD9A00?style=for-the-badge&logo=Javascript)
+![Typescript](https://img.shields.io/badge/Typescript-094385?style=for-the-badge&logo=Typescript)
 ![HTML5](https://img.shields.io/badge/HTML-8a2a01?style=for-the-badge&logo=HTML5&logoColor=ff4d00)
 ![CSS3](https://img.shields.io/badge/CSS3-01416F?style=for-the-badge&logo=CSS3&logoColor=0090f7)
 ![NUXT](https://img.shields.io/badge/NUXT-444?style=for-the-badge&logo=nuxt.js)
@@ -43,6 +45,15 @@ UI UX Design tools
 
 ### `Latest updates from Bora`
 
+`simple-planner`
+
+Just build a simple planner for tracking casual goals and tasks. ReactJS 
+ https://react-simple-planner.netlify.app/
+
+[<img width="600" src="https://repository-images.githubusercontent.com/738665802/b3946319-2028-4cc2-8739-63173e42b6ce" />](https://github.com/BoraKucukkara/vue-reading-mode)
+
+---
+
 `vue-reading-mode`
 
 Just published a new ui component for VueJS 
@@ -63,7 +74,7 @@ Just published a new npm package
 `Animemo 0.1.0` 
  https://animemo.netlify.app
 
-[<img width="600" src="https://camo.githubusercontent.com/1268416d4fb59a30755e7d2b41683c591f1c1730d3a87c9809425d9f9291a29b/68747470733a2f2f616e696d656d6f2e6e65746c6966792e6170702f6173736574732f616e696d656d6f2d6170702d73637265656e73686f742e706e67" />](https://github.com/BoraKucukkara/Animemo)
+[<img width="600" src="https://camo.githubusercontent.com/3b6659c2227b815ff1cdee6a553029836822592edc686864aef13a4148299eb9/68747470733a2f2f616e696d656d6f2e6e65746c6966792e6170702f6173736574732f616e696d656d6f2d6170702d73637265656e73686f742e706e67" />](https://github.com/BoraKucukkara/Animemo)
 
 ---
 
